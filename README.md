@@ -1,5 +1,13 @@
 # 🚀 CODTECH Internship — Task 3  DATABASE_MIGRATION
 
+👩‍🎓Prepared by:GORJALA JAHNAVI
+
+🏷️Internship Id CT04DZ839
+
+🏢Organization: CODTECH
+
+📆Date: August 2025
+
 ![MySQL](https://img.shields.io/badge/MySQL-8+-blue?logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue?logo=postgresql)  
 ![SQL](https://img.shields.io/badge/SQL-Migration-orange?logo=databricks)  
